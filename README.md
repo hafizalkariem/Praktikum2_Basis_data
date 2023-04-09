@@ -6,5 +6,5 @@ Pelita Bangsa University
 ```
 # Tugas Praktikum Basis Data 
 ## Script DDL
-Screenshot 2023-04-09 073258.png
+![](https://github.com/hafizalkariem/Praktikum2_Basis_data/blob/main/img/Screenshot%202023-04-09%20073258.png)
 ## Script DML
