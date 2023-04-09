@@ -21,6 +21,7 @@ Pelita Bangsa University
 ## Apa bedanya penggunaan BETWEEN dan penggunaan operator >= dan <= ? 
 ## • (misal: tgl_lahir BETWEEN '1990-10-10' AND '1992-10-11')   
 ## • (misal: tgl_lahir >= '1990-10-10' AND tgl_lahir <= '1992-10-11')
+## • Berikan kesimpulan anda!
 ## Jawab 
 BOTH BETWEEN dan operator >= dan <= digunakan untuk membatasi hasil pencarian dari suatu rentang nilai tertentu dalam sebuah kueri SQL. Namun, terdapat perbedaan penggunaan dan fungsionalitas di antara keduanya.
 1. BETWEEN:
